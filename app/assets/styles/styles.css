@@ -1,0 +1,11 @@
+//Stylesheets goes here
+$mainBlue: #2f5572;
+
+body{
+  color: $mainBlue;
+  padding: 25px;
+  margin: 10px;
+  columns: 300px 2;
+
+
+}
